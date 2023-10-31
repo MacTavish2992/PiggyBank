@@ -1,0 +1,5 @@
+D:\PiggyBank\ConsolePiggyBank.exe
+D:\PiggyBank\ConsolePiggyBank.dll
+D:\PiggyBank\ConsolePiggyBank.deps.json
+D:\PiggyBank\ConsolePiggyBank.runtimeconfig.json
+D:\PiggyBank\ConsolePiggyBank.pdb

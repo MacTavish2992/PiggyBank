@@ -1,0 +1,15 @@
+C:\Users\v.voytekhovich\source\repos\ConsolePiggyBank\ConsolePiggyBank\bin\Release\net6.0\ConsolePiggyBank.exe
+C:\Users\v.voytekhovich\source\repos\ConsolePiggyBank\ConsolePiggyBank\bin\Release\net6.0\ConsolePiggyBank.deps.json
+C:\Users\v.voytekhovich\source\repos\ConsolePiggyBank\ConsolePiggyBank\bin\Release\net6.0\ConsolePiggyBank.runtimeconfig.json
+C:\Users\v.voytekhovich\source\repos\ConsolePiggyBank\ConsolePiggyBank\bin\Release\net6.0\ConsolePiggyBank.dll
+C:\Users\v.voytekhovich\source\repos\ConsolePiggyBank\ConsolePiggyBank\bin\Release\net6.0\ConsolePiggyBank.pdb
+C:\Users\v.voytekhovich\source\repos\ConsolePiggyBank\ConsolePiggyBank\obj\Release\net6.0\ConsolePiggyBank.csproj.AssemblyReference.cache
+C:\Users\v.voytekhovich\source\repos\ConsolePiggyBank\ConsolePiggyBank\obj\Release\net6.0\ConsolePiggyBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v.voytekhovich\source\repos\ConsolePiggyBank\ConsolePiggyBank\obj\Release\net6.0\ConsolePiggyBank.AssemblyInfoInputs.cache
+C:\Users\v.voytekhovich\source\repos\ConsolePiggyBank\ConsolePiggyBank\obj\Release\net6.0\ConsolePiggyBank.AssemblyInfo.cs
+C:\Users\v.voytekhovich\source\repos\ConsolePiggyBank\ConsolePiggyBank\obj\Release\net6.0\ConsolePiggyBank.csproj.CoreCompileInputs.cache
+C:\Users\v.voytekhovich\source\repos\ConsolePiggyBank\ConsolePiggyBank\obj\Release\net6.0\ConsolePiggyBank.dll
+C:\Users\v.voytekhovich\source\repos\ConsolePiggyBank\ConsolePiggyBank\obj\Release\net6.0\refint\ConsolePiggyBank.dll
+C:\Users\v.voytekhovich\source\repos\ConsolePiggyBank\ConsolePiggyBank\obj\Release\net6.0\ConsolePiggyBank.pdb
+C:\Users\v.voytekhovich\source\repos\ConsolePiggyBank\ConsolePiggyBank\obj\Release\net6.0\ConsolePiggyBank.genruntimeconfig.cache
+C:\Users\v.voytekhovich\source\repos\ConsolePiggyBank\ConsolePiggyBank\obj\Release\net6.0\ref\ConsolePiggyBank.dll
